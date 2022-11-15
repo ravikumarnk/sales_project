@@ -17,10 +17,17 @@ public class MainClass {
 	
 	public void createSales()
 	{
+		String name = "renu";
+		if(name.length()> 5)// 
+		{
+		
 		// 
 		//
 		System.out.println("created sales.. records are inserted.. ");
-		// 500 
+		// 500
+		}
+		
+		
 	}
 	
 	
