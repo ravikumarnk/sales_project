@@ -1,5 +1,9 @@
 package sales_project;
 
+// Created by Renu on 15-Nov-2022 
+// Module :
+/// 
+
 public class MainClass {
 
 	public MainClass() {
@@ -9,6 +13,15 @@ public class MainClass {
 	}
 	
 	
+	
+	
+	public void createSales()
+	{
+		// 
+		//
+		System.out.println("created sales.. records are inserted.. ");
+		// 500 
+	}
 	
 	
 	
